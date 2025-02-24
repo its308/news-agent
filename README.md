@@ -1,4 +1,4 @@
-# Flipr Hackathon Submission
+# Automated News agent
 
 ## Project Overview
 This project is an autonomous AI agent designed to:
