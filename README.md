@@ -50,9 +50,8 @@ Create a `.env` file in the project root directory with the following variables:
 
 ```text
 WP_SITE_ID="flipr-news.infy.uk"
-WP_AUTH_TOKEN="your_generated_password"
+WP_AUTH_TOKEN="2VdX 2c1e KFUC 1kIL sqSZ XoHx"
 ```
-**Note:** Replace `your_generated_password` with the application password generated in WordPress.
 
 ### 4. Run the Pipeline
 Execute the main script to fetch, process, and save articles:
